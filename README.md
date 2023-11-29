@@ -45,8 +45,3 @@ The project is organized into several modules, each serving a specific purpose:
 
 The project generates and analyzes thermodynamic quantities, providing insights into the behavior and information content of the trained models. Visualizations and plots are available to help interpret the results.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to reach out with any questions or feedback!
